@@ -1,6 +1,6 @@
 package com.ecom.ecommerce.entity;
 
-import com.sun.xml.internal.ws.api.ha.StickyFeature;
+
 import lombok.Data;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
